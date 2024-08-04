@@ -1,0 +1,16 @@
+
+.sp1{
+    font-size: 30px;
+    font-weight: 650;
+    color: rgb(251,91,33);
+    text-align: center;
+}
+.button-adjust
+{
+    display: flex;
+    align-items: center;
+   
+}
+.table {
+    font-size: 13px; /* Adjust the font size as needed */
+}

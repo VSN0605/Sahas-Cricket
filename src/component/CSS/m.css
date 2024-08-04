@@ -1,0 +1,25 @@
+.date-picker-container {
+    display: flex;
+    justify-content: space-between; /* Add space between elements */
+    margin-left: 23%; /* Adjust left margin */
+  }
+  
+  .date-picker,
+  .search-input {
+    padding: 8px; /* Adjust padding */
+    border-radius: 4px; /* Add border radius */
+    border: 1px solid #ccc; /* Add border */
+  }
+  
+  .date-picker {
+    width: 80%;
+    height: 20%; /* Adjust width of date pickers */
+  }
+  
+  .search-input {
+    flex-grow: 1; /* Allow the input to grow and take remaining space */
+    margin-left: 10px; /* Add some space between the input and date pickers */
+  }
+  
+  /* You can add more styles to enhance the appearance */
+  
